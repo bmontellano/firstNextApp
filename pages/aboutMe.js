@@ -1,6 +1,7 @@
 const aboutMe = () => {
     return (
         <div>
+            <h1></h1>
            <h1 style={{paddingLeft: 20}}>This is about me</h1>
            <ul> 
                <li>Currently listening to sick A$$ traxx</li>
