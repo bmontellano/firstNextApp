@@ -1,10 +1,11 @@
+import Meta from '../components/Meta'
+
 const aboutMe = () => {
     return (
         <div>
-            <h1></h1>
-           <h1 style={{paddingLeft: 20}}>This is about me</h1>
+           <h1 style={{paddingLeft: 20}}>This is about me, Brian Elias Montellano</h1>
            <ul> 
-               <li>Currently listening to sick A$$ traxx</li>
+               <li>Currently listening to sick traxx</li>
                <li>Spotify Discover Weekly has my algorithm on LOCK</li>
            </ul> 
         </div>
